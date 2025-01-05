@@ -43,18 +43,7 @@ author: Minai
 copyright: "Unpublished Work (cleft) 2025-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Hello, welcome to my first website.
-  
-  I am Minai Dennis, a Mechanical Engineering graduate currently working as a technical office support
-  and freelance graphic designer. 
-  
-  My passion in tech has driven my interest in Full-Stack Development and this marks the 
-  start of my transition to becoming a full time Full-Stack Developer. I am also curious 
-  and passionate to continously learn and develop my skill set and knowledge through practice,
-  mentorship and reading.
-
-  My goal is to be fully equipped to build interactive, functional and appealing websites for clients 
-  worldwide, build connections in the tech space, continously learn and also mentor others in the future.
+  Hello, welcome to my first website. I am Minai Dennis, a Mechanical Engineering graduate currently working as a technical office support and freelance graphic designer. My passion in tech has driven my interest in Full-Stack Development and this marks the start of my transition to becoming a full time Full-Stack Developer. I am also curious and passionate to continously learn and develop my skill set and knowledge through practice, mentorship and reading. My goal is to be fully equipped to build interactive, functional and appealing websites for clients worldwide, build connections in the tech space, continously learn and also mentor others in the future.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
