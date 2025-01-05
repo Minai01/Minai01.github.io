@@ -53,6 +53,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   and passionate to continously learn and develop my skill set and knowledge through practice,
   mentorship and reading.
 
+  My goal is to be fully equipped to build interactive, functional and appealing websites for clients 
+  worldwide, build connections in the tech space, continously learn and also mentor others in the future.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "" # the favicon for your site
